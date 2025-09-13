@@ -4,8 +4,11 @@ li a{
     font-size: 18px;
 }
 li a:hover{
-    background-color:rgba(255, 217, 0, 0.534);
+    background-color:orange;
     color: white;
+}
+button span:hover{
+    background-color: orange;
 }
 
 /* style home section */
@@ -14,8 +17,17 @@ li a:hover{
 }
 
 img:hover{
-    box-shadow: 12px -12px rgba(255, 217, 0, 0.534);
+    box-shadow: 12px -12px orange;
 }
-#btn1 a:hover {
-      background-color: goldenrod;
+h1 { color: orange;}
+#btn a:hover {
+      background-color: darkred;
+}
+
+/* style about section */
+#img2 {
+    border-radius: 8%;
+}
+img:hover{
+    box-shadow: 12px -12px darkred;
 }
