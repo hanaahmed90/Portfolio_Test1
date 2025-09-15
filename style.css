@@ -1,4 +1,4 @@
-/* style navigation bar*/
+/* Style navigation bar*/
 li a{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
@@ -11,7 +11,7 @@ button span:hover{
     background-color: orange;
 }
 
-/* style home section */
+/* style home Section */
 #img1{
     border-radius: 30%;
 }
@@ -24,7 +24,7 @@ h1 { color: orange;}
       background-color: darkred;
 }
 
-/* style about section */
+/* style about Section */
 #img2 {
     border-radius: 8%;
 }
@@ -32,8 +32,15 @@ h1 { color: orange;}
     box-shadow: 12px -12px orange;
 }
 
-/*style project Section*/
-
+/*Style project Section*/
 #procard:hover{
     transform: scale(1.1);
+}
+
+/* Style Contact Section*/
+#btn1 button:hover{
+background-color: darkred;
+}
+form:hover{
+background-color: lightblue;
 }
