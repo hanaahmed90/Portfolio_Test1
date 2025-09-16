@@ -13,13 +13,13 @@ button span:hover{
 
 /* style home Section */
 #img1{
-    border-radius: 30%;
+    border-radius: 10%;
 }
 
 #img1:hover{
     box-shadow: 12px -12px orange;
 }
-h1 { color: orange;}
+h1 { color: rgb(0, 115, 255);}
 #btn a:hover {
       background-color: darkred;
 }
